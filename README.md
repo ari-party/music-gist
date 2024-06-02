@@ -1,6 +1,6 @@
 # music-gist
 
-[![License](https://img.shields.io/github/license/ari-party/nomi?style=for-the-badge)](./LICENSE)
+[![License](https://img.shields.io/github/license/ari-party/music-gist?style=for-the-badge)](./LICENSE)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
