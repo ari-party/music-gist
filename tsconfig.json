@@ -10,9 +10,7 @@
     "resolveJsonModule": true,
     "declaration": true,
     "module": "ESNext",
-    "moduleResolution": "Bundler",
-    "outDir": "dist",
-    "emitDeclarationOnly": true
+    "moduleResolution": "Bundler"
   },
   "include": ["**/*.ts"],
   "exclude": ["node_modules"]
